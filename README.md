@@ -1,3 +1,4 @@
+# Prueba
 # Laboratorio DevSecOps — Integración IT–OT (simulada)
 
 ## Propósito
