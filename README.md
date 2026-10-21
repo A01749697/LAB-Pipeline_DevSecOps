@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 python -m pytest -q
 python -m bandit -r src -q
 ```
-
+#Prueba README.MD
 ## Ejercicio de regresión
 1. Abrir `src/telemetry.py`.
 2. Cambiar `return operation == "read"` por `return operation in ("read", "write")`.
